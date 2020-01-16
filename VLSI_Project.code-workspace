@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "AES_SHA"
+		},
+		{
+			"path": "AES_tb"
+		},
+		{
+			"path": "SHA_tb"
+		}
+	]
+}
